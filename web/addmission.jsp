@@ -81,9 +81,7 @@
 					<div class="col-md-7 col-md-push-5">
 						<div class="booking-cta">
 							<h1>Make your reservation</h1>
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi facere, soluta magnam consectetur molestias itaque
-								ad sint fugit architecto incidunt iste culpa perspiciatis possimus voluptates aliquid consequuntur cumque quasi.
-								Perspiciatis.
+							<p>
 							</p>
 						</div>
 					</div>

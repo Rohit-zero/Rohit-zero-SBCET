@@ -279,7 +279,7 @@
           </div>
         </div>
       </div>
-        <div class="col-sm-6  wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms"> <img src="images/Slider/10.jpg" class="img-responsive" alt=""> </div>
+        <div class="col-sm-6  wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms"> <img src="images/Features/02.jpg" class="img-responsive" alt="" style="margin-top: 50px"> </div>
     </div>
   </div>
 </section>
